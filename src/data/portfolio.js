@@ -1,0 +1,58 @@
+export const portfolio = [
+	{
+		'title': 'Apotek',
+		source: 'portfolio/apotek2.png',
+		isMobile: false,
+		height: "96",
+		rowspan: "2",
+	},
+	{
+		'title': 'Travelme Web',
+		source: 'portfolio/travelme2.png',
+		isMobile: false,
+		height: "96",
+		rowspan: "2",
+	},
+	{
+		'title': 'Felicity',
+		source: 'portfolio/felicity1.png',
+		isMobile: false,
+		height: "96",
+		rowspan: "2",
+	},
+	{
+		'title': 'Emaji',
+		source: 'portfolio/emaji1.png',
+		isMobile: false,
+		height: "96",
+		rowspan: "2",
+	},
+	{
+		'title': 'Donor Darah',
+		source: 'portfolio/donor.png',
+		isMobile: true,
+		height: "96",
+		rowspan: "2",
+	},
+	{
+		'title': 'Fruitman',
+		source: 'portfolio/fruitman.png',
+		isMobile: true,
+		height: "96",
+		rowspan: "2",
+	},
+	{
+		'title': 'Meeting',
+		source: 'portfolio/meeting.png',
+		isMobile: true,
+		height: "96",
+		rowspan: "2",
+	},
+	{
+		'title': 'Travelme',
+		source: 'portfolio/travelme.png',
+		isMobile: true,
+		height: "96",
+		rowspan: "2",
+	},
+]
