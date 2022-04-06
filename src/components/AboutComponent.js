@@ -9,9 +9,9 @@ function AboutComponent() {
 	const skills = [
 		{ 'name': 'Laravel', 'percent': '70%', },
 		{ 'name': 'Tailwind CSS', 'percent': '70%', },
-		{ 'name': 'Boostrap', 'percent': '80%', },
+		{ 'name': 'Boostrap', 'percent': '70%', },
 		{ 'name': 'Jquery', 'percent': '70%', },
-		{ 'name': 'React JS', 'percent': '20%', },
+		{ 'name': 'Golang', 'percent': '60%', },
 	]
 	return (
 		<section id="about" className="pt-10 h-screen md:px-36 dark:bg-true-gray-900 js-show-on-scroll">
