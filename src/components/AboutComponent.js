@@ -3,7 +3,7 @@ import AboutImage from '../images/about_img.jpg'
 
 function AboutComponent() {
 	const about = {
-		'me': 'Hallo, Saya adalah Freelance seorang Web Developer yang berfokus pada Web Framework Laravel, dan saya juga bisa menggunakan React JS',
+		'me': 'Hallo, Saya adalah seorang Web Developer yang berfokus pada Web Framework Laravel, dan juga Golang, dan untuk frontend saya terbiasa menggunakan style boostrap ataupun tailwind ',
 		'title': 'Web Developer'
 	}
 	const skills = [
